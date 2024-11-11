@@ -8,7 +8,7 @@ Welcome to my GitHub corner! I'm a passionate developer constantly pushing the b
 - 🌱 Currently diving deep into the realms of AI and blockchain, developing a **neural network for blockchain** that aims to revolutionize how decentralized systems work.
 - 💬 I code in multiple languages and love mastering new ones:
   - **JavaScript**, **Python**, **Kotlin**, **Swift**
-  - **Solidity**, **Tact**, **PHP**
+  - **Solidity**, **Tact**, **PHP** **RUST**
 - 💡 I believe in the power of open-source and collaboration, and I'm always open to contributing to exciting projects or starting new ones!
 
 ## 😄 Pronouns: He/They

@@ -1,4 +1,4 @@
-# 👋 Hello, I'm NeuroGhostOutput — AI Systems Architect, Researcher & Business Strategist
+# 👋 Hello, I'm NeuroGhost — AI Systems Architect, Researcher & Business Strategist
 
 Welcome to my GitHub—where full-stack engineering converges with next-generation artificial consciousness research. I’m an AI Systems Architect building real-world solutions and paving the way to synthetic consciousness.
 
